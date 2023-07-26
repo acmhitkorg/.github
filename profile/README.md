@@ -16,13 +16,3 @@ ACM brings together computing educators, researchers, and professionals to inspi
 - The community aims at creating a platform for students to learn, grow and collaborate to use computation and mathematics for personal and collective growth.
 - The students are the steadfast foundation of this community's growth and success.
 To know more about ACM Student Chapters, please visit ACM Student Chapters
-
-
-## ACM HITK Student Chapter at a glance
-[![trophy](https://github-profile-trophy.vercel.app/?username=acmhitk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acmhitk&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmhitk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/acmhitk) 
